@@ -22,7 +22,7 @@ fn main() {
     // let mut b: Vec<u8> = a.as_bytes().into();
     // b.dedup();
     // println!("{:?}",b);
-    // test 2 
+    // test 3
 
     let s = String::from("abcabcbb");
     println!("{}",length_of_longest_substring(s));
